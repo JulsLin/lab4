@@ -4,16 +4,16 @@ nav {
   border: 10px ridge wheat;
 }
 
-.crumbs ol {
+.frontpage ol {
   list-style-type: none;
   padding-left: 0;
 }
 
-.crumb {
+.links {
   display: inline-block;
 }
 
-.crumb a::after {
+.links a::after {
   display: inline-block;
   color: #000;
   content: ' ';
