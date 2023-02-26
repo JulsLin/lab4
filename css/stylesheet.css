@@ -1,10 +1,10 @@
 header {
   text-align: center;
   background-color: white;
-  border: 10px ridge wheat;
+  border: 5px dotted wheat;
 }
 
-.frontpage ol {
+.navigation ol {
   list-style-type: none;
   padding-left: 0;
 }
@@ -42,4 +42,10 @@ body {
 
 .all-header {
   color: #002418;
+}
+
+footer {
+  text-align: center;
+  background-color: white;
+  border: 5px dotted wheat;
 }
