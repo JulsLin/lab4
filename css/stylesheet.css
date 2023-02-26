@@ -1,4 +1,4 @@
-nav {
+header {
   text-align: center;
   background-color: white;
   border: 10px ridge wheat;
@@ -23,7 +23,7 @@ nav {
   padding: 0 3px;
 }
 
-h1 {
+header > h1 {
   color:#002418;
   font-family: "Montserrat", sans-serif;
 }
