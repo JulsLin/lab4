@@ -7,6 +7,7 @@ header {
 .navigation ol {
   list-style-type: none;
   padding-left: 0;
+  display: inline-flex;
 }
 
 .links {
