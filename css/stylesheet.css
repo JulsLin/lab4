@@ -70,3 +70,17 @@ footer {
   background-color: white;
   border: 5px dotted wheat;
 }
+
+.first {
+  border-bottom: 3px solid black;
+  padding: 10px;
+}
+
+.second {
+  border-bottom: 3px solid black;
+  padding: 10px;
+}
+
+.third {
+  padding: 10px;
+}
