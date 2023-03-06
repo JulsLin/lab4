@@ -127,3 +127,11 @@ footer {
   grid-column: 1/2;
   grid-row: 2;
 }
+
+@media only screen and (min-width: 600px) {
+  width: 100%;
+  .mobile {
+    display: flex;
+    flex-direction: column;
+  }
+}
